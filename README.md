@@ -1,8 +1,6 @@
 
----
-
 <h1 align="center" style="
-  font-size: 50px;
+  font-size: 100px;
   font-family: 'Fira Code', monospace;
   font-weight: 700;
   background: linear-gradient(90deg, #84cc16, #22d3ee, #c084fc);
