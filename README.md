@@ -10,7 +10,6 @@
 ">
   Taha Faisal Khan
 </h1>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/tahafaisalkhan/" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
