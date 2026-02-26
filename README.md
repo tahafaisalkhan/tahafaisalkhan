@@ -189,13 +189,6 @@
     </td>
     <td></td>
   </tr>
-    <tr>
-    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-      <a href="https://github.com/tahafaisalkhan/llm-rating-webapp" style="font-weight:bold; font-size: 18px; color:#60a5fa;">LLM Human Evaluation Interface</a><br/>
-      <span style="font-size: 16px;">LLM Comparison Webapp</span>
-    </td>
-    <td></td>
-  </tr>
 </table>
 
 <!-- Game Development -->
