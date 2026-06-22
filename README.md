@@ -196,7 +196,7 @@
 
 <!-- Software Development -->
 <div align="center" style="background-color: #2e1065; padding: 25px; border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin: 40px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=c084fc&center=true&vCenter=true&width=500&lines=Software+Development+Projects" alt="typing-banner" style="max-width: 100%; height: auto;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=c084fc&center=true&vCenter=true&width=500&lines=Development+Projects" alt="typing-banner" style="max-width: 100%; height: auto;" />
 </div>
 <table align="center" width="80%" style="border-spacing: 14px;">
   <tr>
