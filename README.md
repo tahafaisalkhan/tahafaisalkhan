@@ -1,255 +1,205 @@
-<div align="center">
 
-# Taha Faisal Khan
-
-### AI / Machine Learning Engineer • Full-Stack Developer
-
-<p>
-  Building practical systems in deep learning, generative AI,<br/>
-  machine learning, web development, and game development.
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/tahafaisalkhan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Taha%20Faisal%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<h1 align="center" style="
+  font-size: 100px;
+  font-family: 'Fira Code', monospace;
+  font-weight: 700;
+  background: linear-gradient(90deg, #84cc16, #22d3ee, #c084fc);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding: 20px 0;
+">
+  Taha Faisal Khan
+</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tahafaisalkhan/" target="_blank" style="margin: 0 10px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:tahafaisal1000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:tahafaisal1000@gmail.com" target="_blank" style="margin: 0 10px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
-</div>
 
 ---
 
-<div align="center">
-
-## About Me
-
-<p>
-I build intelligent software across artificial intelligence, machine learning,<br/>
-full-stack development, and interactive applications.
-</p>
-
-<p>
-My work includes foundational model implementations, computer vision systems,<br/>
-retrieval-augmented generation, predictive models, and production-style applications.
-</p>
-
+<h3 align="center" style="font-size: 26px;">🛠️ Languages & Tools</h3>
+<!-- Square icons in a flex container -->
+<div align="center" style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  padding: 10px 0;
+">
+  <img src="https://skillicons.dev/icons?i=cpp" height="48" />
+  <img src="https://skillicons.dev/icons?i=python" height="48" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="48" />
+  <img src="https://skillicons.dev/icons?i=java" height="48" />
+  <img src="https://skillicons.dev/icons?i=latex" height="48" />
+  <img src="https://skillicons.dev/icons?i=cs" height="48" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="48" />
+  <img src="https://skillicons.dev/icons?i=html" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="48" />
+  <img src="https://skillicons.dev/icons?i=react" height="48" />
+  <img src="https://skillicons.dev/icons?i=express" height="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" />
+  <img src="https://skillicons.dev/icons?i=git" height="48" />
+  <img src="https://skillicons.dev/icons?i=github" height="48" />
+  <img src="https://skillicons.dev/icons?i=docker" height="48" />
 </div>
-
----
-
-<div align="center">
-
-## Languages
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-</p>
-
-</div>
-
-<div align="center">
-
-## Frameworks & Libraries
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Seaborn-Data%20Visualization-4C72B0?style=flat-square" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API"/>
-  <img src="https://img.shields.io/badge/Socket.IO-Realtime-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
-</p>
-
-</div>
-
-<div align="center">
-
-## Tools & Platforms
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" height="45" alt="Unity"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="45" height="45" alt="LaTeX"/>
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-## Featured Projects
-
-### Deep Learning
-
-<table>
-<tr>
-<td align="center" width="50%">
-  <strong><a href="https://github.com/tahafaisalkhan/clip-model">CLIP Model</a></strong><br/><br/>
-  Contrastive language–image pretraining implementation.
-</td>
-<td align="center" width="50%">
-  <strong><a href="https://github.com/tahafaisalkhan/gan-interpolation">GAN Interpolation</a></strong><br/><br/>
-  Latent-space interpolation experiments with GANs.
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-  <strong><a href="https://github.com/tahafaisalkhan/pixel-cnn">PixelCNN</a></strong><br/><br/>
-  Autoregressive image modeling and generation.
-</td>
-<td align="center" width="50%">
-  <strong><a href="https://github.com/tahafaisalkhan/stable-diffusion">Stable Diffusion</a></strong><br/><br/>
-  Latent text-to-image generation with diffusion models.
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-  <strong><a href="https://github.com/tahafaisalkhan/brain-tumour-segmentation">Brain Tumour Segmentation</a></strong><br/><br/>
-  Deep-learning-based segmentation of brain MRI scans.
-</td>
-</tr>
-</table>
 
 <br/>
 
-### Generative AI
-
-<table>
-<tr>
-<td align="center" width="50%">
-  <strong><a href="https://github.com/tahafaisalkhan/student-handbook-rag">Student Handbook RAG</a></strong><br/><br/>
-  Retrieval-augmented generation application built with LangChain.
-</td>
-<td align="center" width="50%">
-  <strong><a href="https://github.com/tahafaisalkhan/smolLM">SmolLM</a></strong><br/><br/>
-  Experiments with lightweight language models.
-</td>
-</tr>
-</table>
-
-<br/>
-
-### Machine Learning
-
-<table>
-<tr>
-<td align="center" width="50%">
-  <strong><a href="https://github.com/tahafaisalkhan/lung-cancer-prediction-model">Lung Cancer Prediction</a></strong><br/><br/>
-  Prediction of lung-cancer severity using machine learning.
-</td>
-<td align="center" width="50%">
-  <strong><a href="https://github.com/tahafaisalkhan/ml-news-classification">ML News Classification</a></strong><br/><br/>
-  News classification pipeline using ML and NLP.
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-  <strong><a href="https://github.com/tahafaisalkhan/student-performance-predictor">Student Performance Predictor</a></strong><br/><br/>
-  Student performance prediction based on multiple factors.
-</td>
-<td align="center" width="50%">
-  <strong><a href="https://github.com/tahafaisalkhan/weather-classifier">Weather Classifier</a></strong><br/><br/>
-  Classification of weather conditions using machine learning.
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-  <strong><a href="https://github.com/tahafaisalkhan/k-nearest-neighbours">K-Nearest Neighbours</a></strong><br/><br/>
-  KNN implementation focused on algorithmic fundamentals.
-</td>
-<td align="center" width="50%">
-  <strong><a href="https://github.com/tahafaisalkhan/naive-bayes">Naive Bayes</a></strong><br/><br/>
-  Naive Bayes classifier implemented from scratch.
-</td>
-</tr>
-</table>
-
-<br/>
-
-### Applications
-
-<table>
-<tr>
-<td align="center" width="50%">
-  <strong><a href="https://github.com/tahafaisalkhan/trading-app">Trading App</a></strong><br/><br/>
-  MERN-stack trading platform.
-</td>
-<td align="center" width="50%">
-  <strong><a href="https://github.com/tahafaisalkhan/restaurant-app">Restaurant App</a></strong><br/><br/>
-  Restaurant management web application.
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-  <strong><a href="https://github.com/tahafaisalkhan/employee-app">Employee App</a></strong><br/><br/>
-  Employee management system built with Java.
-</td>
-<td align="center" width="50%">
-  <strong><a href="https://github.com/tahafaisalkhan/chrono-savior">Chrono Savior</a></strong><br/><br/>
-  Single-player adventure game developed with Unity and C#.
-</td>
-</tr>
-</table>
-
+<!-- Badges in a flex container -->
+<div align="center" style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+">
+  <img src="https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?&style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-66A3D2.svg?&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101.svg?&style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-blue?&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?&style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991.svg?&style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 </div>
 
 ---
-
-<div align="center">
-
-### Open to collaboration in AI, machine learning, and software engineering.
-
-<p>
-  <a href="https://www.linkedin.com/in/tahafaisalkhan/">LinkedIn</a>
-  •
-  <a href="mailto:tahafaisal1000@gmail.com">Email</a>
-  •
-  <a href="https://github.com/tahafaisalkhan">GitHub</a>
-</p>
-
+<h3 align="center" style="font-size: 26px;">🚀 Featured Projects</h3>
+<!-- Deep Learning Projects -->
+<div align="center" style="background-color: #2e1065; padding: 25px; border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin: 40px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=84cc16&center=true&vCenter=true&width=500&lines=Deep+Learning+Projects" alt="typing-banner" style="max-width: 100%; height: auto;" />
 </div>
+
+
+<table align="center" width="90%" style="border-spacing: 14px;">
+  <tr>
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+      <a href="https://github.com/tahafaisalkhan/clip-model" style="font-weight:bold; font-size: 18px; color:#4ade80;">CLIP Model</a><br/>
+      <span style="font-size: 16px;">Contrastive Language–Image Pretraining implementation.</span>
+    </td>
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+      <a href="https://github.com/tahafaisalkhan/gan-interpolation" style="font-weight:bold; font-size: 18px; color:#4ade80;">GAN Interpolation</a><br/>
+      <span style="font-size: 16px;">Interpolation techniques in latent space of GANs.</span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+      <a href="https://github.com/tahafaisalkhan/pixel-cnn" style="font-weight:bold; font-size: 18px; color:#4ade80;">Pixel CNN</a><br/>
+      <span style="font-size: 16px;">Autoregressive image modeling with PixelCNN.</span>
+    </td>
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+      <a href="https://github.com/tahafaisalkhan/stable-diffusion" style="font-weight:bold; font-size: 18px; color:#4ade80;">Stable Diffusion</a><br/>
+      <span style="font-size: 16px;">Latent text-to-image generation using Stable Diffusion.</span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+      <a href="https://github.com/tahafaisalkhan/brain-tumour-segmentation" style="font-weight:bold; font-size: 18px; color:#4ade80;">Brain Tumour Segmentation</a><br/>
+      <span style="font-size: 16px;">Brain MRI segmentation with deep learning.</span>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+<!-- Machine Learning Projects -->
+<div align="center" style="background-color: #2e1065; padding: 25px; border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin: 40px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=f97316&center=true&vCenter=true&width=500&lines=Machine+Learning+Projects" alt="typing-banner" style="max-width: 100%; height: auto;" />
+</div>
+
+<table align="center" width="90%" style="border-spacing: 14px;">
+  <tr>
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+      <a href="https://github.com/tahafaisalkhan/lung-cancer-prediction-model" style="font-weight:bold; font-size: 18px; color:#fb923c;">Lung Cancer Prediction</a><br/>
+      <span style="font-size: 16px;">Predict severity of lung cancer using ML techniques.</span>
+    </td>
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+      <a href="https://github.com/tahafaisalkhan/ml-news-classification" style="font-weight:bold; font-size: 18px; color:#fb923c;">ML News Classification</a><br/>
+      <span style="font-size: 16px;">News classification pipeline with ML & NLP.</span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+      <a href="https://github.com/tahafaisalkhan/student-performance-predictor" style="font-weight:bold; font-size: 18px; color:#fb923c;">Student Performance Predictor</a><br/>
+      <span style="font-size: 16px;">Predict student performance based on various factors.</span>
+    </td>
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+      <a href="https://github.com/tahafaisalkhan/weather-classifier" style="font-weight:bold; font-size: 18px; color:#fb923c;">Weather Classifier</a><br/>
+      <span style="font-size: 16px;">Classify weather conditions using ML.</span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+      <a href="https://github.com/tahafaisalkhan/k-nearest-neighbours" style="font-weight:bold; font-size: 18px; color:#fb923c;">K-Nearest Neighbours</a><br/>
+      <span style="font-size: 16px;">Classic KNN implementation.</span>
+    </td>
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+      <a href="https://github.com/tahafaisalkhan/naive-bayes" style="font-weight:bold; font-size: 18px; color:#fb923c;">Naive Bayes</a><br/>
+      <span style="font-size: 16px;">Naive Bayes classifier from scratch.</span>
+    </td>
+  </tr>
+</table>
+
+<!-- Generative AI -->
+<div align="center" style="background-color: #2e1065; padding: 25px; border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin: 40px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=22d3ee&center=true&vCenter=true&width=500&lines=Generative+AI+Projects" alt="typing-banner" style="max-width: 100%; height: auto;" />
+</div>
+<table align="center" width="80%" style="border-spacing: 14px;">
+  <tr>
+    <td align="center" width="100%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+      <a href="https://github.com/tahafaisalkhan/student-handbook-rag" style="font-weight:bold; font-size: 18px; color:#22d3ee;">Student Handbook RAG</a><br/>
+      <span style="font-size: 16px;">LangChain-powered Retrieval-Augmented Generation app.</span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+      <a href="https://github.com/tahafaisalkhan/smolLM" style="font-weight:bold; font-size: 18px; color:#22d3ee;">SmolLM</a><br/>
+      <span style="font-size: 16px;">Lightweight Language Model experiments.</span>
+    </td>
+  </tr>
+</table>
+
+<!-- Web Applications -->
+<div align="center" style="background-color: #2e1065; padding: 25px; border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin: 40px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=60a5fa&center=true&vCenter=true&width=500&lines=Web+Applications" alt="typing-banner" style="max-width: 100%; height: auto;" />
+</div>
+<table align="center" width="80%" style="border-spacing: 14px;">
+  <tr>
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+      <a href="https://github.com/tahafaisalkhan/trading-app" style="font-weight:bold; font-size: 18px; color:#60a5fa;">Trading App</a><br/>
+      <span style="font-size: 16px;">MERN stack trading platform.</span>
+    </td>
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+      <a href="https://github.com/tahafaisalkhan/restaurant-app" style="font-weight:bold; font-size: 18px; color:#60a5fa;">Restaurant App</a><br/>
+      <span style="font-size: 16px;">Restaurant management web app.</span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+      <a href="https://github.com/tahafaisalkhan/employee-app" style="font-weight:bold; font-size: 18px; color:#60a5fa;">Employee App</a><br/>
+      <span style="font-size: 16px;">Java-based Employee Management System.</span>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+<!-- Game Development -->
+<div align="center" style="background-color: #2e1065; padding: 25px; border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin: 40px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=c084fc&center=true&vCenter=true&width=500&lines=Game+Development+Projects" alt="typing-banner" style="max-width: 100%; height: auto;" />
+</div>
+<table align="center" width="80%" style="border-spacing: 14px;">
+  <tr>
+    <td align="center" width="100%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+      <a href="https://github.com/tahafaisalkhan/chrono-savior" style="font-weight:bold; font-size: 18px; color:#c084fc;">Chrono Savior</a><br/>
+      <span style="font-size: 16px;">Unity/C# single-player adventure game.</span>
+    </td>
+  </tr>
+</table>
