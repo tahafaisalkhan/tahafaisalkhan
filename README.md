@@ -2,127 +2,254 @@
 
 # Taha Faisal Khan
 
-### AI / Machine Learning Engineer · Full-Stack Developer
+### AI / Machine Learning Engineer • Full-Stack Developer
 
-Building practical systems across deep learning, generative AI, machine learning, web applications, and game development.
+<p>
+  Building practical systems in deep learning, generative AI,<br/>
+  machine learning, web development, and game development.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahafaisalkhan/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tahafaisal1000@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-tahafaisalkhan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tahafaisalkhan)
+<p>
+  <a href="https://www.linkedin.com/in/tahafaisalkhan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Taha%20Faisal%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tahafaisal1000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## Profile
+<div align="center">
 
-I develop intelligent, production-minded software with a focus on:
-
-- Deep learning and computer vision
-- Generative AI and retrieval-augmented generation
-- Classical machine learning and data analysis
-- Full-stack web development
-- Interactive applications with Unity and C#
-
-My work ranges from implementing foundational models from scratch to building complete user-facing applications.
-
----
-
-## Technical Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Languages
+## About Me
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,java,cs,html,css" />
+I build intelligent software across artificial intelligence, machine learning,<br/>
+full-stack development, and interactive applications.
 </p>
-
-</td>
-<td valign="top" width="50%">
-
-### Frameworks & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,react,express,flask,mongodb,docker,git,github" />
+My work includes foundational model implementations, computer vision systems,<br/>
+retrieval-augmented generation, predictive models, and production-style applications.
 </p>
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-### Data & AI
-
-`NumPy` · `Pandas` · `Matplotlib` · `Seaborn`  
-`Scikit-learn` · `LangChain` · `Hugging Face` · `OpenAI API`
-
-</td>
-<td valign="top" width="50%">
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,latex,unity" />
-</p>
-
-`Socket.IO`
-
-</td>
-</tr>
-</table>
-
----
-
-## Selected Work
-
-### Deep Learning
-
-| Project | Description |
-|---|---|
-| [CLIP Model](https://github.com/tahafaisalkhan/clip-model) | Implementation of contrastive language–image pretraining. |
-| [GAN Interpolation](https://github.com/tahafaisalkhan/gan-interpolation) | Latent-space interpolation experiments with generative adversarial networks. |
-| [PixelCNN](https://github.com/tahafaisalkhan/pixel-cnn) | Autoregressive image generation using PixelCNN. |
-| [Stable Diffusion](https://github.com/tahafaisalkhan/stable-diffusion) | Latent text-to-image generation with diffusion models. |
-| [Brain Tumour Segmentation](https://github.com/tahafaisalkhan/brain-tumour-segmentation) | Deep-learning-based segmentation of brain MRI scans. |
-
-### Generative AI
-
-| Project | Description |
-|---|---|
-| [Student Handbook RAG](https://github.com/tahafaisalkhan/student-handbook-rag) | Retrieval-augmented generation application built with LangChain. |
-| [SmolLM](https://github.com/tahafaisalkhan/smolLM) | Experiments with lightweight language models. |
-
-### Machine Learning
-
-| Project | Description |
-|---|---|
-| [Lung Cancer Prediction](https://github.com/tahafaisalkhan/lung-cancer-prediction-model) | Machine-learning pipeline for lung-cancer severity prediction. |
-| [ML News Classification](https://github.com/tahafaisalkhan/ml-news-classification) | News classification system using machine learning and NLP. |
-| [Student Performance Predictor](https://github.com/tahafaisalkhan/student-performance-predictor) | Predictive model for student performance analysis. |
-| [Weather Classifier](https://github.com/tahafaisalkhan/weather-classifier) | Classification of weather conditions using machine learning. |
-| [K-Nearest Neighbours](https://github.com/tahafaisalkhan/k-nearest-neighbours) | KNN implementation focused on algorithmic fundamentals. |
-| [Naive Bayes](https://github.com/tahafaisalkhan/naive-bayes) | Naive Bayes classifier implemented from scratch. |
-
-### Applications
-
-| Project | Area | Description |
-|---|---|---|
-| [Trading App](https://github.com/tahafaisalkhan/trading-app) | Web | MERN-stack trading platform. |
-| [Restaurant App](https://github.com/tahafaisalkhan/restaurant-app) | Web | Restaurant management application. |
-| [Employee App](https://github.com/tahafaisalkhan/employee-app) | Desktop / Java | Employee management system built with Java. |
-| [Chrono Savior](https://github.com/tahafaisalkhan/chrono-savior) | Game Development | Single-player adventure game developed with Unity and C#. |
+</div>
 
 ---
 
 <div align="center">
 
-### Let’s build something useful.
+## Languages
 
-Open to collaboration in artificial intelligence, machine learning, and software engineering.
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/tahafaisalkhan/) · [Email](mailto:tahafaisal1000@gmail.com) · [GitHub](https://github.com/tahafaisalkhan)
+</div>
+
+<div align="center">
+
+## Frameworks & Libraries
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Seaborn-Data%20Visualization-4C72B0?style=flat-square" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/Socket.IO-Realtime-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
+</p>
+
+</div>
+
+<div align="center">
+
+## Tools & Platforms
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" height="45" alt="Unity"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="45" height="45" alt="LaTeX"/>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## Featured Projects
+
+### Deep Learning
+
+<table>
+<tr>
+<td align="center" width="50%">
+  <strong><a href="https://github.com/tahafaisalkhan/clip-model">CLIP Model</a></strong><br/><br/>
+  Contrastive language–image pretraining implementation.
+</td>
+<td align="center" width="50%">
+  <strong><a href="https://github.com/tahafaisalkhan/gan-interpolation">GAN Interpolation</a></strong><br/><br/>
+  Latent-space interpolation experiments with GANs.
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  <strong><a href="https://github.com/tahafaisalkhan/pixel-cnn">PixelCNN</a></strong><br/><br/>
+  Autoregressive image modeling and generation.
+</td>
+<td align="center" width="50%">
+  <strong><a href="https://github.com/tahafaisalkhan/stable-diffusion">Stable Diffusion</a></strong><br/><br/>
+  Latent text-to-image generation with diffusion models.
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+  <strong><a href="https://github.com/tahafaisalkhan/brain-tumour-segmentation">Brain Tumour Segmentation</a></strong><br/><br/>
+  Deep-learning-based segmentation of brain MRI scans.
+</td>
+</tr>
+</table>
+
+<br/>
+
+### Generative AI
+
+<table>
+<tr>
+<td align="center" width="50%">
+  <strong><a href="https://github.com/tahafaisalkhan/student-handbook-rag">Student Handbook RAG</a></strong><br/><br/>
+  Retrieval-augmented generation application built with LangChain.
+</td>
+<td align="center" width="50%">
+  <strong><a href="https://github.com/tahafaisalkhan/smolLM">SmolLM</a></strong><br/><br/>
+  Experiments with lightweight language models.
+</td>
+</tr>
+</table>
+
+<br/>
+
+### Machine Learning
+
+<table>
+<tr>
+<td align="center" width="50%">
+  <strong><a href="https://github.com/tahafaisalkhan/lung-cancer-prediction-model">Lung Cancer Prediction</a></strong><br/><br/>
+  Prediction of lung-cancer severity using machine learning.
+</td>
+<td align="center" width="50%">
+  <strong><a href="https://github.com/tahafaisalkhan/ml-news-classification">ML News Classification</a></strong><br/><br/>
+  News classification pipeline using ML and NLP.
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  <strong><a href="https://github.com/tahafaisalkhan/student-performance-predictor">Student Performance Predictor</a></strong><br/><br/>
+  Student performance prediction based on multiple factors.
+</td>
+<td align="center" width="50%">
+  <strong><a href="https://github.com/tahafaisalkhan/weather-classifier">Weather Classifier</a></strong><br/><br/>
+  Classification of weather conditions using machine learning.
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  <strong><a href="https://github.com/tahafaisalkhan/k-nearest-neighbours">K-Nearest Neighbours</a></strong><br/><br/>
+  KNN implementation focused on algorithmic fundamentals.
+</td>
+<td align="center" width="50%">
+  <strong><a href="https://github.com/tahafaisalkhan/naive-bayes">Naive Bayes</a></strong><br/><br/>
+  Naive Bayes classifier implemented from scratch.
+</td>
+</tr>
+</table>
+
+<br/>
+
+### Applications
+
+<table>
+<tr>
+<td align="center" width="50%">
+  <strong><a href="https://github.com/tahafaisalkhan/trading-app">Trading App</a></strong><br/><br/>
+  MERN-stack trading platform.
+</td>
+<td align="center" width="50%">
+  <strong><a href="https://github.com/tahafaisalkhan/restaurant-app">Restaurant App</a></strong><br/><br/>
+  Restaurant management web application.
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  <strong><a href="https://github.com/tahafaisalkhan/employee-app">Employee App</a></strong><br/><br/>
+  Employee management system built with Java.
+</td>
+<td align="center" width="50%">
+  <strong><a href="https://github.com/tahafaisalkhan/chrono-savior">Chrono Savior</a></strong><br/><br/>
+  Single-player adventure game developed with Unity and C#.
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### Open to collaboration in AI, machine learning, and software engineering.
+
+<p>
+  <a href="https://www.linkedin.com/in/tahafaisalkhan/">LinkedIn</a>
+  •
+  <a href="mailto:tahafaisal1000@gmail.com">Email</a>
+  •
+  <a href="https://github.com/tahafaisalkhan">GitHub</a>
+</p>
 
 </div>
