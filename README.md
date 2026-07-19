@@ -26,32 +26,9 @@
 
 <h3 align="center" style="font-size: 26px;">🛠️ Languages & Tools</h3>
 <!-- Square icons in a flex container -->
-<div align="center" style="
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 12px;
-  padding: 10px 0;
-">
-  <img src="https://skillicons.dev/icons?i=cpp" height="48" />
-  <img src="https://skillicons.dev/icons?i=python" height="48" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="48" />
-  <img src="https://skillicons.dev/icons?i=java" height="48" />
-  <img src="https://skillicons.dev/icons?i=latex" height="48" />
-  <img src="https://skillicons.dev/icons?i=cs" height="48" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="48" />
-  <img src="https://skillicons.dev/icons?i=html" height="48" />
-  <img src="https://skillicons.dev/icons?i=css" height="48" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="48" />
-  <img src="https://skillicons.dev/icons?i=react" height="48" />
-  <img src="https://skillicons.dev/icons?i=express" height="48" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="48" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="48" />
-  <img src="https://skillicons.dev/icons?i=git" height="48" />
-  <img src="https://skillicons.dev/icons?i=github" height="48" />
-  <img src="https://skillicons.dev/icons?i=docker" height="48" />
-</div>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=white" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="Scikit-learn" /> <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/Seaborn-%2366A3D2.svg?style=for-the-badge" alt="Seaborn" /> <img src="https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&amp;logo=socket.io&amp;logoColor=white" alt="Socket.io" /> <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face" /> <img src="https://img.shields.io/badge/OpenAI%20API-%23412991.svg?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI API" /> <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity" />
+</p>
 <br/>
 
 <!-- Badges in a flex container -->
