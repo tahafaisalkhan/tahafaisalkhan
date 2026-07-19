@@ -1,4 +1,3 @@
-
 <h1 align="center" style="
   font-size: 100px;
   font-family: 'Fira Code', monospace;
@@ -10,86 +9,23 @@
 ">
   Taha Faisal Khan
 </h1>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/tahafaisalkhan/" target="_blank" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-<a href="mailto:tahafaisal1000@gmail.com" style="margin: 0 10px; text-decoration: none;">
-  <img
-    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
-    alt="Email"
-  />
-</a>
-
-
----
-
-<h3 align="center" style="font-size: 26px;">🛠️ Languages & Tools</h3>
-<!-- Square icons in a flex container -->
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=white" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="Scikit-learn" /> <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/Seaborn-%2366A3D2.svg?style=for-the-badge" alt="Seaborn" /> <img src="https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&amp;logo=socket.io&amp;logoColor=white" alt="Socket.io" /> <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face" /> <img src="https://img.shields.io/badge/OpenAI%20API-%23412991.svg?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI API" /> <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity" />
+  A curated collection of my academic, professional, and research repositories, spanning artificial intelligence, machine learning, generative AI, and software development.
 </p>
-<br/>
 
-<!-- Badges in a flex container -->
-<div align="center">
-  <img
-    src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white"
-    alt="NumPy"
-  />
-  
-  <img
-    src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"
-    alt="Pandas"
-  />
-  
-  <img
-    src="https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=white"
-    alt="Matplotlib"
-  />
-  
-  <img
-    src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white"
-    alt="Scikit-learn"
-  />
-  
-  <img
-    src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&amp;logo=flask&amp;logoColor=white"
-    alt="Flask"
-  />
-  
-  <img
-    src="https://img.shields.io/badge/Seaborn-%2366A3D2.svg?style=for-the-badge"
-    alt="Seaborn"
-  />
-  
-  <img
-    src="https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&amp;logo=socket.io&amp;logoColor=white"
-    alt="Socket.io"
-  />
-  
-  <img
-    src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&amp;logo=langchain&amp;logoColor=white"
-    alt="LangChain"
-  />
-  
-  <img
-    src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black"
-    alt="Hugging Face"
-  />
-  
-  <img
-    src="https://img.shields.io/badge/OpenAI%20API-%23412991.svg?style=for-the-badge&amp;logo=openai&amp;logoColor=white"
-    alt="OpenAI API"
-  />
-  
-  <img
-    src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&amp;logo=unity&amp;logoColor=white"
-    alt="Unity"
-  />
-</div>
+<p align="center"><a href="https://www.linkedin.com/in/tahafaisalkhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:tahafaisal1000@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a></p>
 
 ---
+
+<h3 align="center">🛠️ Languages &amp; Tools</h3>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=cpp,python,ts,java,latex,cs,js,html,css,pytorch,react,express,mongodb,vscode,git,github,docker&amp;perline=9" alt="Languages and tools" /></p>
+
+<p align="center"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />&nbsp;<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />&nbsp;<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />&nbsp;<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="Scikit-learn" />&nbsp;<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" />&nbsp;<img src="https://img.shields.io/badge/Seaborn-66A3D2?style=for-the-badge" alt="Seaborn" />&nbsp;<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&amp;logo=socketdotio&amp;logoColor=white" alt="Socket.io" />&nbsp;<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />&nbsp;<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge" alt="Hugging Face" />&nbsp;<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge" alt="OpenAI API" />&nbsp;<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity" /></p>
+
+---
+
 <h3 align="center" style="font-size: 26px;">🚀 Featured Projects</h3>
 <!-- Deep Learning Projects -->
 <div align="center" style="background-color: #2e1065; padding: 25px; border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin: 40px 0;">
