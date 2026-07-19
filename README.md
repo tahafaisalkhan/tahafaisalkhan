@@ -55,23 +55,61 @@
 <br/>
 
 <!-- Badges in a flex container -->
-<div align="center" style="
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 8px;
-">
-  <img src="https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?&style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-66A3D2.svg?&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101.svg?&style=for-the-badge&logo=socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-blue?&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?&style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991.svg?&style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+<div align="center">
+  <img
+    src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white"
+    alt="NumPy"
+  />
+  
+  <img
+    src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"
+    alt="Pandas"
+  />
+  
+  <img
+    src="https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=white"
+    alt="Matplotlib"
+  />
+  
+  <img
+    src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white"
+    alt="Scikit-learn"
+  />
+  
+  <img
+    src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&amp;logo=flask&amp;logoColor=white"
+    alt="Flask"
+  />
+  
+  <img
+    src="https://img.shields.io/badge/Seaborn-%2366A3D2.svg?style=for-the-badge"
+    alt="Seaborn"
+  />
+  
+  <img
+    src="https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&amp;logo=socket.io&amp;logoColor=white"
+    alt="Socket.io"
+  />
+  
+  <img
+    src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&amp;logo=langchain&amp;logoColor=white"
+    alt="LangChain"
+  />
+  
+  <img
+    src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black"
+    alt="Hugging Face"
+  />
+  
+  <img
+    src="https://img.shields.io/badge/OpenAI%20API-%23412991.svg?style=for-the-badge&amp;logo=openai&amp;logoColor=white"
+    alt="OpenAI API"
+  />
+  
+  <img
+    src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&amp;logo=unity&amp;logoColor=white"
+    alt="Unity"
+  />
 </div>
 
 ---
