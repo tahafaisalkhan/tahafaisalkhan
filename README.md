@@ -14,7 +14,19 @@
   A curated collection of my academic, professional, and research repositories, spanning artificial intelligence, machine learning, generative AI, and software development.
 </p>
 
-<p align="center"><a href="https://www.linkedin.com/in/tahafaisalkhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:tahafaisal1000@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tahafaisalkhan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+
+  <a href="mailto:tahafaisal1000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>&nbsp;&nbsp;
+
+  <a href="YOUR_RESUME_LINK">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+  </a>
+</p>
 
 ---
 
