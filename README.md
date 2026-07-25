@@ -130,6 +130,16 @@
       <span style="font-size: 16px;">Lightweight Language Model experiments.</span>
     </td>
   </tr>
+  <tr>
+  <td align="center" width="100%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+    <a href="https://github.com/tahafaisalkhan/toward-reliable-urdu-clinical-nlp-benchmarks" style="font-weight:bold; font-size: 18px; color:#22d3ee;">
+      Toward Reliable Urdu Clinical NLP Benchmarks
+    </a><br/>
+    <span style="font-size: 16px;">
+      Benchmarking and evaluating reliable NLP methods for Urdu clinical text.
+    </span>
+  </td>
+</tr>
 </table>
 
 <!-- Web Applications -->
