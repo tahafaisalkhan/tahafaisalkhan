@@ -1,8 +1,12 @@
 <div align="center">
 
-<img width="100%" src="assets/header.svg" alt="Taha Faisal Khan banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:0d1117,50:161b22,80:0d1117,100:000000&height=200&section=header&text=Taha%20Faisal%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=48&animation=fadeIn"/>
 
 </div>
+
+<p align="center">
+  A curated collection of my academic, professional, and research repositories, spanning artificial intelligence, machine learning, generative AI, and software development.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tahafaisalkhan/">
