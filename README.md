@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,55:111827,100:1f2937&height=145&section=header&text=Taha%20Faisal%20Khan&fontSize=44&fontColor=84cc16&fontAlignY=52&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:111827,100:0d1117&height=150&section=header&text=Taha%20Faisal%20Khan&fontSize=46&fontColor=ffffff&fontAlignY=52&animation=fadeIn"/>
 
 </div>
 
