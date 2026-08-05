@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,35:111827,65:1f2937,100:0d1117&height=190&section=header&text=Taha%20Faisal%20Khan&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Artificial%20Intelligence%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Software%20Development&descSize=15&descAlignY=62&descColor=9ca3af&animation=fadeIn"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f2937,100:0d1117&height=3&section=footer"/>
+<img width="100%" src="assets/header.svg" alt="Taha Faisal Khan constellation banner" />
 
 </div>
 
