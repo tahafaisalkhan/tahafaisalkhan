@@ -45,33 +45,33 @@
 </div>
 
 
-<table align="center" width="90%" style="width: 90%; table-layout: fixed; border-spacing: 14px;">
+<table align="center" width="1200">
   <tr>
-    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/clip-model" style="font-weight:bold; font-size: 18px; color:#4ade80;">CLIP Model</a><br/>
       <span style="font-size: 16px;">Contrastive Language–Image Pretraining implementation.</span>
     </td>
-    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/gan-interpolation" style="font-weight:bold; font-size: 18px; color:#4ade80;">GAN Interpolation</a><br/>
       <span style="font-size: 16px;">Interpolation techniques in latent space of GANs.</span>
     </td>
   </tr>
   <tr>
-    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/pixel-cnn" style="font-weight:bold; font-size: 18px; color:#4ade80;">Pixel CNN</a><br/>
       <span style="font-size: 16px;">Autoregressive image modeling with PixelCNN.</span>
     </td>
-    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/stable-diffusion" style="font-weight:bold; font-size: 18px; color:#4ade80;">Stable Diffusion</a><br/>
       <span style="font-size: 16px;">Latent text-to-image generation using Stable Diffusion.</span>
     </td>
   </tr>
   <tr>
-    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/brain-tumour-segmentation" style="font-weight:bold; font-size: 18px; color:#4ade80;">Brain Tumour Segmentation</a><br/>
       <span style="font-size: 16px;">Brain MRI segmentation with deep learning.</span>
     </td>
-    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/spectralGNN" style="font-weight:bold; font-size: 18px; color:#4ade80;">Spectral GNN</a><br/>
       <span style="font-size: 16px;">Graph neural network projects covering spectral methods, maze navigation, and spatio-temporal traffic forecasting.</span>
     </td>
@@ -83,33 +83,33 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=f97316&center=true&vCenter=true&width=500&lines=Machine+Learning+Projects" alt="typing-banner" style="max-width: 100%; height: auto;" />
 </div>
 
-<table align="center" width="90%" style="width: 90%; table-layout: fixed; border-spacing: 14px;">
+<table align="center" width="1200">
   <tr>
-    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/lung-cancer-prediction-model" style="font-weight:bold; font-size: 18px; color:#fb923c;">Lung Cancer Prediction</a><br/>
       <span style="font-size: 16px;">Predict severity of lung cancer using ML techniques.</span>
     </td>
-    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/ml-news-classification" style="font-weight:bold; font-size: 18px; color:#fb923c;">ML News Classification</a><br/>
       <span style="font-size: 16px;">News classification pipeline with ML & NLP.</span>
     </td>
   </tr>
   <tr>
-    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/student-performance-predictor" style="font-weight:bold; font-size: 18px; color:#fb923c;">Student Performance Predictor</a><br/>
       <span style="font-size: 16px;">Predict student performance based on various factors.</span>
     </td>
-    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/weather-classifier" style="font-weight:bold; font-size: 18px; color:#fb923c;">Weather Classifier</a><br/>
       <span style="font-size: 16px;">Classify weather conditions using ML.</span>
     </td>
   </tr>
   <tr>
-    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/k-nearest-neighbours" style="font-weight:bold; font-size: 18px; color:#fb923c;">K-Nearest Neighbours</a><br/>
       <span style="font-size: 16px;">Classic KNN implementation.</span>
     </td>
-    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/naive-bayes" style="font-weight:bold; font-size: 18px; color:#fb923c;">Naive Bayes</a><br/>
       <span style="font-size: 16px;">Naive Bayes classifier from scratch.</span>
     </td>
@@ -120,21 +120,21 @@
 <div align="center" style="background-color: #2e1065; padding: 25px; border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin: 40px 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=22d3ee&center=true&vCenter=true&width=500&lines=Generative+AI+Projects" alt="typing-banner" style="max-width: 100%; height: auto;" />
 </div>
-<table align="center" width="90%" style="width: 90%; table-layout: fixed; border-spacing: 14px;">
+<table align="center" width="1200">
   <tr>
-    <td align="center" width="100%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+    <td align="center" width="1200" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/student-handbook-rag" style="font-weight:bold; font-size: 18px; color:#22d3ee;">Student Handbook RAG</a><br/>
       <span style="font-size: 16px;">LangChain-powered Retrieval-Augmented Generation app.</span>
     </td>
   </tr>
   <tr>
-    <td align="center" width="100%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+    <td align="center" width="1200" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/smolLM" style="font-weight:bold; font-size: 18px; color:#22d3ee;">SmolLM</a><br/>
       <span style="font-size: 16px;">Lightweight Language Model experiments.</span>
     </td>
   </tr>
   <tr>
-  <td align="center" width="100%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+  <td align="center" width="1200" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
     <a href="https://github.com/tahafaisalkhan/toward-reliable-urdu-clinical-nlp-benchmarks" style="font-weight:bold; font-size: 18px; color:#22d3ee;">
       Toward Reliable Urdu Clinical NLP Benchmarks
     </a><br/>
@@ -149,23 +149,23 @@
 <div align="center" style="background-color: #2e1065; padding: 25px; border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin: 40px 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=60a5fa&center=true&vCenter=true&width=500&lines=Web+Applications" alt="typing-banner" style="max-width: 100%; height: auto;" />
 </div>
-<table align="center" width="90%" style="width: 90%; table-layout: fixed; border-spacing: 14px;">
+<table align="center" width="1200">
   <tr>
-    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/trading-app" style="font-weight:bold; font-size: 18px; color:#60a5fa;">Trading App</a><br/>
       <span style="font-size: 16px;">MERN stack trading platform.</span>
     </td>
-    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/restaurant-app" style="font-weight:bold; font-size: 18px; color:#60a5fa;">Restaurant App</a><br/>
       <span style="font-size: 16px;">Restaurant management web app.</span>
     </td>
   </tr>
   <tr>
-    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/employee-app" style="font-weight:bold; font-size: 18px; color:#60a5fa;">Employee App</a><br/>
       <span style="font-size: 16px;">Java-based Employee Management System.</span>
     </td>
-    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/llm-rating-webapp" style="font-weight:bold; font-size: 18px; color:#60a5fa;">LLM Rating Web App</a><br/>
       <span style="font-size: 16px;">Web app for evaluating and rating LLM responses.</span>
     </td>
@@ -176,19 +176,19 @@
 <div align="center" style="background-color: #2e1065; padding: 25px; border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin: 40px 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=c084fc&center=true&vCenter=true&width=500&lines=Development+Projects" alt="typing-banner" style="max-width: 100%; height: auto;" />
 </div>
-<table align="center" width="90%" style="width: 90%; table-layout: fixed; border-spacing: 14px;">
+<table align="center" width="1200">
   <tr>
-    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/campus-management-android-app" style="font-weight:bold; font-size: 18px; color:#c084fc;">Campus Management Android App</a><br/>
       <span style="font-size: 16px;">Android application for campus management.</span>
     </td>
-    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/emotilog-android-app" style="font-weight:bold; font-size: 18px; color:#c084fc;">EmotiLog Android App</a><br/>
       <span style="font-size: 16px;">Android application for emotion logging and tracking.</span>
     </td>
   </tr>
   <tr>
-    <td align="center" width="100%" colspan="2" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+    <td align="center" width="1200" colspan="2" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/chrono-savior" style="font-weight:bold; font-size: 18px; color:#c084fc;">Chrono Savior</a><br/>
       <span style="font-size: 16px;">Unity/C# single-player adventure game.</span>
     </td>
