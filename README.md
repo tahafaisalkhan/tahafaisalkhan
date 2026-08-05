@@ -1,14 +1,8 @@
-<h1 align="center" style="
-  font-size: 100px;
-  font-family: 'Fira Code', monospace;
-  font-weight: 700;
-  background: linear-gradient(90deg, #84cc16, #22d3ee, #c084fc);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  padding: 20px 0;
-">
-  Taha Faisal Khan
-</h1>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2027,100:1a1a2e&height=200&section=header&text=Taha%20Faisal%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+
+</div>
 
 <p align="center">
   A curated collection of my academic, professional, and research repositories, spanning artificial intelligence, machine learning, generative AI, and software development.
