@@ -71,7 +71,10 @@
       <a href="https://github.com/tahafaisalkhan/brain-tumour-segmentation" style="font-weight:bold; font-size: 18px; color:#4ade80;">Brain Tumour Segmentation</a><br/>
       <span style="font-size: 16px;">Brain MRI segmentation with deep learning.</span>
     </td>
-    <td></td>
+    <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
+      <a href="https://github.com/tahafaisalkhan/spectralGNN" style="font-weight:bold; font-size: 18px; color:#4ade80;">Spectral GNN</a><br/>
+      <span style="font-size: 16px;">Graph neural network projects covering spectral methods, maze navigation, and spatio-temporal traffic forecasting.</span>
+    </td>
   </tr>
 </table>
 
