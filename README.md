@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="assets/header.svg" alt="Taha Faisal Khan constellation banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2027,100:1a1a2e&height=200&section=header&text=Taha%20Faisal%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=A%20curated%20collection%20of%20my%20academic,%20professional,%20and%20research%20repositories,%20spanning%20artificial%20intelligence,%20machine%20learning,%20generative%20AI,%20and%20software%20development.&descSize=15&descAlignY=61&descColor=8892b0&animation=fadeIn"/>
 
 </div>
 
