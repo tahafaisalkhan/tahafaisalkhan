@@ -120,7 +120,7 @@
 <div align="center" style="background-color: #2e1065; padding: 25px; border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin: 40px 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=22d3ee&center=true&vCenter=true&width=500&lines=Generative+AI+Projects" alt="typing-banner" style="max-width: 100%; height: auto;" />
 </div>
-<table align="center" width="80%" style="border-spacing: 14px;">
+<table align="center" width="90%" style="border-spacing: 14px;">
   <tr>
     <td align="center" width="100%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/student-handbook-rag" style="font-weight:bold; font-size: 18px; color:#22d3ee;">Student Handbook RAG</a><br/>
@@ -149,7 +149,7 @@
 <div align="center" style="background-color: #2e1065; padding: 25px; border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin: 40px 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=60a5fa&center=true&vCenter=true&width=500&lines=Web+Applications" alt="typing-banner" style="max-width: 100%; height: auto;" />
 </div>
-<table align="center" width="80%" style="border-spacing: 14px;">
+<table align="center" width="90%" style="border-spacing: 14px;">
   <tr>
     <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/trading-app" style="font-weight:bold; font-size: 18px; color:#60a5fa;">Trading App</a><br/>
@@ -176,7 +176,7 @@
 <div align="center" style="background-color: #2e1065; padding: 25px; border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin: 40px 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=c084fc&center=true&vCenter=true&width=500&lines=Development+Projects" alt="typing-banner" style="max-width: 100%; height: auto;" />
 </div>
-<table align="center" width="80%" style="border-spacing: 14px;">
+<table align="center" width="90%" style="border-spacing: 14px;">
   <tr>
     <td align="center" width="45%" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
       <a href="https://github.com/tahafaisalkhan/campus-management-android-app" style="font-weight:bold; font-size: 18px; color:#c084fc;">Campus Management Android App</a><br/>
