@@ -1,10 +1,9 @@
-## Taha Faisal Khan
-
-ML research and engineering, focused on large language models.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="100%" alt="Taha Faisal Khan, ML Research & Engineering. Research interests: efficient inference, deep research agents, large language models.">
+</picture>
 
 [LinkedIn](https://www.linkedin.com/in/tahafaisalkhan/) · [Email](mailto:tahafaisal999@gmail.com)
-
-**Research interests:** efficient inference · deep research agents · large language models
 
 **Previous research:** evaluating LLMs reliably in low-resource clinical settings (Urdu): [Toward Reliable Urdu Clinical NLP Benchmarks](https://github.com/tahafaisalkhan/toward-reliable-urdu-clinical-nlp-benchmarks)
 
@@ -21,6 +20,12 @@ ML research and engineering, focused on large language models.
   <tr>
     <td width="260"><a href="https://github.com/tahafaisalkhan/toward-reliable-urdu-clinical-nlp-benchmarks"><b>Urdu Clinical NLP Benchmarks</b></a></td>
     <td>Research paper: Urdu translations of ACI-Bench clinical dialogues with Gemma and MedGemma, evaluated by physicians and an LLM-as-a-judge</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/tahafaisalkhan/toward-reliable-urdu-clinical-nlp-benchmarks"><img src="https://raw.githubusercontent.com/tahafaisalkhan/toward-reliable-urdu-clinical-nlp-benchmarks/HEAD/paper/figures/redesigned_comparison_interface.png" width="100%" alt="Physician evaluation interface comparing an English clinical dialogue with two LLM-generated Urdu translations"></a>
+      <br><sub>Physician evaluation interface: English source dialogue, two model translations, and the clinical rubric.</sub>
+    </td>
   </tr>
   <tr>
     <td width="260"><a href="https://github.com/tahafaisalkhan/smolLM"><b>SmolLM</b></a></td>
