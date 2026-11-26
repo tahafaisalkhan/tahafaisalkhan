@@ -129,8 +129,8 @@ ML research and engineering, focused on large language models.
 
 ### Stack
 
-**ML:** PyTorch · Hugging Face · LangChain · scikit-learn · NumPy · pandas · Matplotlib
+**Programming languages:** Python · C++ · C · CUDA · TypeScript · JavaScript · SQL · Java · C# · HTML · LaTeX
 
-**Languages:** Python · C++ · TypeScript · JavaScript · Java · C# · LaTeX
+**Libraries:** PyTorch · Hugging Face · NumPy · pandas · Matplotlib · scikit-learn · Flask · Seaborn · Socket.io · LangChain
 
-**Tools:** Git · Docker · Flask · React · Express · MongoDB
+**Frameworks & tools:** React · Express · MongoDB · Git · Docker
