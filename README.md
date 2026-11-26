@@ -20,14 +20,7 @@
   <tr>
     <td width="260"><a href="https://github.com/tahafaisalkhan/toward-reliable-urdu-clinical-nlp-benchmarks"><b>Urdu Clinical NLP Benchmarks</b></a></td>
     <td>Research paper: Urdu translations of ACI-Bench clinical dialogues with Gemma and MedGemma, evaluated by physicians and an LLM-as-a-judge</td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://github.com/tahafaisalkhan/toward-reliable-urdu-clinical-nlp-benchmarks"><img src="https://raw.githubusercontent.com/tahafaisalkhan/toward-reliable-urdu-clinical-nlp-benchmarks/HEAD/paper/figures/redesigned_comparison_interface.png" width="100%" alt="Physician evaluation interface comparing an English clinical dialogue with two LLM-generated Urdu translations"></a>
-      <br><sub>Physician evaluation interface: English source dialogue, two model translations, and the clinical rubric.</sub>
-    </td>
-  </tr>
-  <tr>
+  </tr>  <tr>
     <td width="260"><a href="https://github.com/tahafaisalkhan/smolLM"><b>SmolLM</b></a></td>
     <td>135M LLaMA-style transformer from scratch (RMSNorm, RoPE, GQA, SwiGLU), LoRA fine-tuning at 0.9% of parameters, then DPO alignment</td>
   </tr>
