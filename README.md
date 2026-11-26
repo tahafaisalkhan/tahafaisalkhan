@@ -15,36 +15,6 @@ ML research and engineering, focused on large language models.
 ---
 
 
-### Deep Learning
-
-<table>
-  <tr>
-    <td width="260"><a href="https://github.com/tahafaisalkhan/clip-model"><b>CLIP</b></a></td>
-    <td>Contrastive image–text model (ResNet + DistilBERT) trained in a shared embedding space, with zero-shot classification from text prompts</td>
-  </tr>
-  <tr>
-    <td width="260"><a href="https://github.com/tahafaisalkhan/stable-diffusion"><b>Diffusion Models</b></a></td>
-    <td>DDPM from scratch (unconditional, class-conditional, CLIP-guided) plus Stable Diffusion inpainting and ControlNet style transfer</td>
-  </tr>
-  <tr>
-    <td width="260"><a href="https://github.com/tahafaisalkhan/pixel-cnn"><b>PixelCNN</b></a></td>
-    <td>Autoregressive image model with masked convolutions and residual blocks</td>
-  </tr>
-  <tr>
-    <td width="260"><a href="https://github.com/tahafaisalkhan/gan-interpolation"><b>GAN Latent Space</b></a></td>
-    <td>Latent interpolation and vector arithmetic on MNIST and CelebA generators</td>
-  </tr>
-  <tr>
-    <td width="260"><a href="https://github.com/tahafaisalkhan/brain-tumour-segmentation"><b>Brain Tumour Segmentation</b></a></td>
-    <td>MRI segmentation with a custom autoencoder (Dice 0.64)</td>
-  </tr>
-  <tr>
-    <td width="260"><a href="https://github.com/tahafaisalkhan/spectralGNN"><b>Graph Neural Networks</b></a></td>
-    <td>Spectral GCN with Laplacian regularization (MUTAG), a GraphSAGE maze policy compared against Dijkstra, and spatio-temporal traffic forecasting</td>
-  </tr>
-</table>
-
-
 ### Generative AI
 
 <table>
@@ -81,6 +51,36 @@ ML research and engineering, focused on large language models.
   <tr>
     <td width="260"><a href="https://github.com/tahafaisalkhan/naive-bayes"><b>Naive Bayes</b></a></td>
     <td>Bernoulli and Multinomial Naive Bayes from scratch on Golf and TweetEval</td>
+  </tr>
+</table>
+
+
+### Deep Learning
+
+<table>
+  <tr>
+    <td width="260"><a href="https://github.com/tahafaisalkhan/clip-model"><b>CLIP</b></a></td>
+    <td>Contrastive image–text model (ResNet + DistilBERT) trained in a shared embedding space, with zero-shot classification from text prompts</td>
+  </tr>
+  <tr>
+    <td width="260"><a href="https://github.com/tahafaisalkhan/stable-diffusion"><b>Diffusion Models</b></a></td>
+    <td>DDPM from scratch (unconditional, class-conditional, CLIP-guided) plus Stable Diffusion inpainting and ControlNet style transfer</td>
+  </tr>
+  <tr>
+    <td width="260"><a href="https://github.com/tahafaisalkhan/pixel-cnn"><b>PixelCNN</b></a></td>
+    <td>Autoregressive image model with masked convolutions and residual blocks</td>
+  </tr>
+  <tr>
+    <td width="260"><a href="https://github.com/tahafaisalkhan/gan-interpolation"><b>GAN Latent Space</b></a></td>
+    <td>Latent interpolation and vector arithmetic on MNIST and CelebA generators</td>
+  </tr>
+  <tr>
+    <td width="260"><a href="https://github.com/tahafaisalkhan/brain-tumour-segmentation"><b>Brain Tumour Segmentation</b></a></td>
+    <td>MRI segmentation with a custom autoencoder (Dice 0.64)</td>
+  </tr>
+  <tr>
+    <td width="260"><a href="https://github.com/tahafaisalkhan/spectralGNN"><b>Graph Neural Networks</b></a></td>
+    <td>Spectral GCN with Laplacian regularization (MUTAG), a GraphSAGE maze policy compared against Dijkstra, and spatio-temporal traffic forecasting</td>
   </tr>
 </table>
 
