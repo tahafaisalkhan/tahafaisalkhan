@@ -1,190 +1,56 @@
-<div align="center">
+## Taha Faisal Khan
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:0d1117,50:161b22,80:0d1117,100:000000&height=200&section=header&text=Taha%20Faisal%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=48&animation=fadeIn"/>
+ML research and engineering: LLM evaluation, low-resource NLP, and generative models.
 
-</div>
+[Resume](https://drive.google.com/file/d/1tsVpX8HlYi8_d1MWrU7c_RQAB9X2vObj/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/tahafaisalkhan/) · [Email](mailto:tahafaisal999@gmail.com)
 
-<p align="center">
-  A curated collection of my academic, professional, and research repositories, spanning artificial intelligence, machine learning, generative AI, and software development.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tahafaisalkhan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-
-  <a href="mailto:tahafaisal1000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://drive.google.com/file/d/1tsVpX8HlYi8_d1MWrU7c_RQAB9X2vObj/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
-  </a>
-</p>
+- Researching how to evaluate LLMs reliably in low-resource clinical settings (Urdu)
+- Building transformers and generative models from scratch, and fine-tuning and aligning them (LoRA, DPO)
+- Former teaching assistant; I designed course assignments ([taship-assignments](https://github.com/tahafaisalkhan/taship-assignments))
+- Open to ML / GenAI research and engineering internships
 
 ---
 
-<h3 align="center">🛠️ Languages &amp; Tools</h3>
+### Research
 
-<p align="center"><img src="https://skillicons.dev/icons?i=cpp,python,ts,java,latex,cs,js,html,css,pytorch,react,express,mongodb,vscode,git,github,docker&amp;perline=9" alt="Languages and tools" /></p>
+**[Toward Reliable Urdu Clinical NLP Benchmarks: Lessons from Physician Evaluation of LLM-Generated Translations](https://github.com/tahafaisalkhan/toward-reliable-urdu-clinical-nlp-benchmarks)**
 
-<p align="center"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />&nbsp;<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />&nbsp;<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />&nbsp;<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="Scikit-learn" />&nbsp;<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" />&nbsp;<img src="https://img.shields.io/badge/Seaborn-66A3D2?style=for-the-badge" alt="Seaborn" />&nbsp;<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&amp;logo=socketdotio&amp;logoColor=white" alt="Socket.io" />&nbsp;<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />&nbsp;<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge" alt="Hugging Face" />&nbsp;<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge" alt="OpenAI API" />&nbsp;<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity" /></p>
+A pilot study that translates ACI-Bench clinical dialogue–note records into Urdu with Gemma and MedGemma, then evaluates the translations through physician review and a rubric-matched LLM-as-a-judge. The study looks at inter-rater reliability, interface design for expert annotation, and what it takes to build trustworthy benchmarks for long-form, low-resource clinical translation.
+
+[Paper & code](https://github.com/tahafaisalkhan/toward-reliable-urdu-clinical-nlp-benchmarks) · [Physician evaluation platform](https://github.com/tahafaisalkhan/llm-rating-webapp) (React, Express, MongoDB)
 
 ---
 
-<h3 align="center" style="font-size: 26px;">🚀 Featured Projects</h3>
-<!-- Deep Learning Projects -->
-<div align="center" style="background-color: #2e1065; padding: 25px; border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin: 40px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=84cc16&center=true&vCenter=true&width=500&lines=Deep+Learning+Projects" alt="typing-banner" style="max-width: 100%; height: auto;" />
-</div>
+### Selected Projects
 
+**LLMs & Generative AI**
 
-<table align="center" width="1200">
-  <tr>
-    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-      <a href="https://github.com/tahafaisalkhan/clip-model" style="font-weight:bold; font-size: 18px; color:#4ade80;">CLIP Model</a><br/>
-      <span style="font-size: 16px;">Contrastive Language–Image Pretraining implementation.</span>
-    </td>
-    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-      <a href="https://github.com/tahafaisalkhan/gan-interpolation" style="font-weight:bold; font-size: 18px; color:#4ade80;">GAN Interpolation</a><br/>
-      <span style="font-size: 16px;">Interpolation techniques in latent space of GANs.</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-      <a href="https://github.com/tahafaisalkhan/pixel-cnn" style="font-weight:bold; font-size: 18px; color:#4ade80;">Pixel CNN</a><br/>
-      <span style="font-size: 16px;">Autoregressive image modeling with PixelCNN.</span>
-    </td>
-    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-      <a href="https://github.com/tahafaisalkhan/stable-diffusion" style="font-weight:bold; font-size: 18px; color:#4ade80;">Stable Diffusion</a><br/>
-      <span style="font-size: 16px;">Latent text-to-image generation using Stable Diffusion.</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-      <a href="https://github.com/tahafaisalkhan/brain-tumour-segmentation" style="font-weight:bold; font-size: 18px; color:#4ade80;">Brain Tumour Segmentation</a><br/>
-      <span style="font-size: 16px;">Brain MRI segmentation with deep learning.</span>
-    </td>
-    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-      <a href="https://github.com/tahafaisalkhan/spectralGNN" style="font-weight:bold; font-size: 18px; color:#4ade80;">Spectral GNN</a><br/>
-      <span style="font-size: 16px;">Graph neural network projects covering spectral methods, maze navigation, and spatio-temporal traffic forecasting.</span>
-    </td>
-  </tr>
-</table>
+| Project | Summary |
+| --- | --- |
+| [SmolLM](https://github.com/tahafaisalkhan/smolLM) | 135M LLaMA-style transformer from scratch (RMSNorm, RoPE, GQA, SwiGLU), LoRA fine-tuning at 0.9% of parameters, then DPO alignment |
+| [Diffusion Models](https://github.com/tahafaisalkhan/stable-diffusion) | DDPM from scratch (unconditional, class-conditional, CLIP-guided) plus Stable Diffusion inpainting and ControlNet style transfer |
+| [CLIP](https://github.com/tahafaisalkhan/clip-model) | Contrastive image–text model (ResNet + DistilBERT) with zero-shot classification |
+| [Handbook RAG](https://github.com/tahafaisalkhan/student-handbook-rag) | Retrieval-augmented QA over a university handbook: LangChain, FAISS, HF embeddings, Mistral via Ollama |
 
-<!-- Machine Learning Projects -->
-<div align="center" style="background-color: #2e1065; padding: 25px; border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin: 40px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=f97316&center=true&vCenter=true&width=500&lines=Machine+Learning+Projects" alt="typing-banner" style="max-width: 100%; height: auto;" />
-</div>
+**Deep Learning**
 
-<table align="center" width="1200">
-  <tr>
-    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-      <a href="https://github.com/tahafaisalkhan/lung-cancer-prediction-model" style="font-weight:bold; font-size: 18px; color:#fb923c;">Lung Cancer Prediction</a><br/>
-      <span style="font-size: 16px;">Predict severity of lung cancer using ML techniques.</span>
-    </td>
-    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-      <a href="https://github.com/tahafaisalkhan/ml-news-classification" style="font-weight:bold; font-size: 18px; color:#fb923c;">ML News Classification</a><br/>
-      <span style="font-size: 16px;">News classification pipeline with ML & NLP.</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-      <a href="https://github.com/tahafaisalkhan/student-performance-predictor" style="font-weight:bold; font-size: 18px; color:#fb923c;">Student Performance Predictor</a><br/>
-      <span style="font-size: 16px;">Predict student performance based on various factors.</span>
-    </td>
-    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-      <a href="https://github.com/tahafaisalkhan/weather-classifier" style="font-weight:bold; font-size: 18px; color:#fb923c;">Weather Classifier</a><br/>
-      <span style="font-size: 16px;">Classify weather conditions using ML.</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-      <a href="https://github.com/tahafaisalkhan/k-nearest-neighbours" style="font-weight:bold; font-size: 18px; color:#fb923c;">K-Nearest Neighbours</a><br/>
-      <span style="font-size: 16px;">Classic KNN implementation.</span>
-    </td>
-    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-      <a href="https://github.com/tahafaisalkhan/naive-bayes" style="font-weight:bold; font-size: 18px; color:#fb923c;">Naive Bayes</a><br/>
-      <span style="font-size: 16px;">Naive Bayes classifier from scratch.</span>
-    </td>
-  </tr>
-</table>
+| Project | Summary |
+| --- | --- |
+| [Graph Neural Networks](https://github.com/tahafaisalkhan/spectralGNN) | Spectral GCN with Laplacian regularization (MUTAG), a GraphSAGE maze policy compared against Dijkstra, and spatio-temporal traffic forecasting |
+| [PixelCNN](https://github.com/tahafaisalkhan/pixel-cnn) | Autoregressive image model with masked convolutions and residual blocks |
+| [GAN Latent Space](https://github.com/tahafaisalkhan/gan-interpolation) | Latent interpolation and vector arithmetic on MNIST and CelebA generators |
+| [Brain Tumour Segmentation](https://github.com/tahafaisalkhan/brain-tumour-segmentation) | MRI segmentation with a custom autoencoder (Dice 0.64) |
 
-<!-- Generative AI -->
-<div align="center" style="background-color: #2e1065; padding: 25px; border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin: 40px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=22d3ee&center=true&vCenter=true&width=500&lines=Generative+AI+Projects" alt="typing-banner" style="max-width: 100%; height: auto;" />
-</div>
-<table align="center" width="1200">
-  <tr>
-    <td align="center" width="1200" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-      <a href="https://github.com/tahafaisalkhan/student-handbook-rag" style="font-weight:bold; font-size: 18px; color:#22d3ee;">Student Handbook RAG</a><br/>
-      <span style="font-size: 16px;">LangChain-powered Retrieval-Augmented Generation app.</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="1200" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-      <a href="https://github.com/tahafaisalkhan/smolLM" style="font-weight:bold; font-size: 18px; color:#22d3ee;">SmolLM</a><br/>
-      <span style="font-size: 16px;">Lightweight Language Model experiments.</span>
-    </td>
-  </tr>
-  <tr>
-  <td align="center" width="1200" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-    <a href="https://github.com/tahafaisalkhan/toward-reliable-urdu-clinical-nlp-benchmarks" style="font-weight:bold; font-size: 18px; color:#22d3ee;">
-      Toward Reliable Urdu Clinical NLP Benchmarks
-    </a><br/>
-    <span style="font-size: 16px;">
-      Benchmarking and evaluating reliable NLP methods for Urdu clinical text.
-    </span>
-  </td>
-</tr>
-</table>
+**Machine Learning:** [Urdu News Classification](https://github.com/tahafaisalkhan/ml-news-classification) · [KNN from scratch](https://github.com/tahafaisalkhan/k-nearest-neighbours) · [Naive Bayes from scratch](https://github.com/tahafaisalkhan/naive-bayes) · [Lung Cancer Severity](https://github.com/tahafaisalkhan/lung-cancer-prediction-model)
 
-<!-- Web Applications -->
-<div align="center" style="background-color: #2e1065; padding: 25px; border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin: 40px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=60a5fa&center=true&vCenter=true&width=500&lines=Web+Applications" alt="typing-banner" style="max-width: 100%; height: auto;" />
-</div>
-<table align="center" width="1200">
-  <tr>
-    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-      <a href="https://github.com/tahafaisalkhan/trading-app" style="font-weight:bold; font-size: 18px; color:#60a5fa;">Trading App</a><br/>
-      <span style="font-size: 16px;">MERN stack trading platform.</span>
-    </td>
-    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-      <a href="https://github.com/tahafaisalkhan/restaurant-app" style="font-weight:bold; font-size: 18px; color:#60a5fa;">Restaurant App</a><br/>
-      <span style="font-size: 16px;">Restaurant management web app.</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-      <a href="https://github.com/tahafaisalkhan/employee-app" style="font-weight:bold; font-size: 18px; color:#60a5fa;">Employee App</a><br/>
-      <span style="font-size: 16px;">Java-based Employee Management System.</span>
-    </td>
-    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-      <a href="https://github.com/tahafaisalkhan/llm-rating-webapp" style="font-weight:bold; font-size: 18px; color:#60a5fa;">LLM Rating Web App</a><br/>
-      <span style="font-size: 16px;">Web app for evaluating and rating LLM responses.</span>
-    </td>
-  </tr>
-</table>
+**Software:** [Trading App](https://github.com/tahafaisalkhan/trading-app) · [Restaurant App](https://github.com/tahafaisalkhan/restaurant-app) · [Employee App](https://github.com/tahafaisalkhan/employee-app) · [Campus Events (Android)](https://github.com/tahafaisalkhan/campus-management-android-app) · [EmotiLog (Android)](https://github.com/tahafaisalkhan/emotilog-android-app) · [Chrono Savior (Unity)](https://github.com/tahafaisalkhan/chrono-savior)
 
-<!-- Software Development -->
-<div align="center" style="background-color: #2e1065; padding: 25px; border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin: 40px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=c084fc&center=true&vCenter=true&width=500&lines=Development+Projects" alt="typing-banner" style="max-width: 100%; height: auto;" />
-</div>
-<table align="center" width="1200">
-  <tr>
-    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-      <a href="https://github.com/tahafaisalkhan/campus-management-android-app" style="font-weight:bold; font-size: 18px; color:#c084fc;">Campus Management Android App</a><br/>
-      <span style="font-size: 16px;">Android application for campus management.</span>
-    </td>
-    <td align="center" width="600" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-      <a href="https://github.com/tahafaisalkhan/emotilog-android-app" style="font-weight:bold; font-size: 18px; color:#c084fc;">EmotiLog Android App</a><br/>
-      <span style="font-size: 16px;">Android application for emotion logging and tracking.</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="1200" colspan="2" style="border: 1px solid #2e2e2e; border-radius: 12px; padding: 16px;">
-      <a href="https://github.com/tahafaisalkhan/chrono-savior" style="font-weight:bold; font-size: 18px; color:#c084fc;">Chrono Savior</a><br/>
-      <span style="font-size: 16px;">Unity/C# single-player adventure game.</span>
-    </td>
-  </tr>
-</table>
+---
+
+### Stack
+
+**ML:** PyTorch · Hugging Face · LangChain · scikit-learn · NumPy · pandas · Matplotlib
+
+**Languages:** Python · C++ · TypeScript · JavaScript · Java · C# · LaTeX
+
+**Tools:** Git · Docker · Flask · React · Express · MongoDB
